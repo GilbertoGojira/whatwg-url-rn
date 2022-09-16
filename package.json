@@ -23,7 +23,7 @@
     "eslint": "^7.32.0",
     "got": "^11.8.2",
     "jest": "^27.2.4",
-    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git"
+    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git#17.1.0"
   },
   "engines": {
     "node": ">=12"
