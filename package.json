@@ -1,6 +1,6 @@
 {
   "name": "whatwg-url-rn",
-  "version": "11.0.1",
+  "version": "11.0.2",
   "description": "An implementation of the WHATWG URL Standard's URL API and parsing machinery",
   "main": "index.js",
   "files": [
